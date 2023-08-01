@@ -1,4 +1,4 @@
 # First-Repo
-wertwerwetw
-#himanshu-singh-series
-here is another click
+This is our first repository.
+#Himanshu-singh-series
+Here is another click!
